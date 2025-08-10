@@ -52,4 +52,3 @@ Atualmente, estou ampliando meus conhecimentos em desenvolvimento enquanto conti
 
 ---
 
-💬 **"Qualidade não é só encontrar defeitos, é criar experiências que encantam."**
